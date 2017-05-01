@@ -1,0 +1,12 @@
+siteTitle = "5 minutes of React podcast"
+siteDescr = "Podcast about React hot topics and JavaScript ecosystem."
+
+siteTwitterUrl = "https://twitter.com/"
+siteEmailUrl = "mailto:petr.myazin@gmail.com"
+siteRssUrl = "http://feeds.soundcloud.com/"
+siteItunesUrl = "https://itunes.apple.com/"
+siteSoundcloudUrl = "https://soundcloud.com"
+
+googleAnalyticsId = ""
+
+linkPrefix = "/"
