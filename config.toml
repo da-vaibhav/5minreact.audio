@@ -2,11 +2,11 @@ siteTitle = "5 minutes of React podcast"
 siteDescr = "Podcast about React hot topics and JavaScript ecosystem."
 
 siteTwitterUrl = "https://twitter.com/"
-siteEmailUrl = "mailto:petr.myazin@gmail.com"
-siteRssUrl = "http://feeds.soundcloud.com/"
+siteEmailUrl = "mailto:podcast@5minreact.audio"
+siteRssUrl = "http://feeds.soundcloud.com/users/soundcloud:users:304879382/sounds.rss"
 siteItunesUrl = "https://itunes.apple.com/"
-siteSoundcloudUrl = "https://soundcloud.com"
+siteSoundcloudUrl = "https://soundcloud.com/5minreact_audio"
 
-googleAnalyticsId = ""
+googleAnalyticsId = "UA-96344565-2"
 
 linkPrefix = "/"

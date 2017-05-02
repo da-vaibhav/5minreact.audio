@@ -31,7 +31,7 @@ class SitePost extends React.Component {
                   <DisqusThread
                     shortname="5minreact-audio"
                     title={post.title}
-                    url={`http://5minreact.audio/${this.props.location.pathname}`}
+                    url={`http://5minreact.audio${this.props.location.pathname}`}
                   />
                 </div>
               </div>
