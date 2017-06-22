@@ -11,10 +11,11 @@ class SiteLinks extends React.Component {
             <div className="sitelinks">
                 <ul>
                     <li><a href={ config.siteItunesUrl } target="_blank">iTunes</a></li>
-                    <li><a href="http://www.subscribeonandroid.com./feeds.soundcloud.com/users/soundcloud:users:304879382/sounds.rss" title="Subscribe on Android">Subscribe on Android</a></li>
+                    <li><a href={ config.siteAndroidUrl } title="Subscribe on Android">Subscribe on Android</a></li>
                     <li><a href={ config.siteSoundcloudUrl } target="_blank">SoundCloud</a></li>
                     <li><a href={ config.siteRssUrl } target="_blank">RSS</a></li>
                     <li><a href={ config.siteTwitterUrl } target="_blank">Twitter</a></li>
+                    <li><a href={ config.siteYouTubeUrl } target="_blank">YouTube</a></li>
                     <li><a href={ config.siteEmailUrl }>Email</a></li>
                 </ul>
 
