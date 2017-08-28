@@ -1,5 +1,5 @@
 ---
-title: "#14 - Gatsby"
+title: "#14 - Preact Rocks!"
 date: "2017-08-28"
 layout: post
 path: "/014-preact-rocks/"
