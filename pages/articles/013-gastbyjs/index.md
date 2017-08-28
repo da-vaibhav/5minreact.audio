@@ -1,6 +1,6 @@
 ---
 title: "#13 - Gatsby"
-date: "2017-07-06"
+date: "2017-07-17"
 layout: post
 path: "/013-gatsbyjs/"
 ---
