@@ -20,7 +20,7 @@ class SiteLinks extends React.Component {
                 </ul>
 
                 <ul>
-                    <li><small><a href="http://opencollective.com/webpack" target="_blank">Sponsor of Webpack</a></small></li>
+                    <li><small><a href="http://opencollective.com/webpack" target="_blank">Silver sponsor of Webpack</a></small></li>
                     <li><small><a href="http://5minreact.ru" target="_blank">Listen in Russian</a></small></li>
                     <li><small>Author: <a href="https://twitter.com/petrmyazin" target="_blank">@PetrMyazin</a></small></li>
                 </ul>
